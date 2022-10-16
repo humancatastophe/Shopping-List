@@ -1,7 +1,16 @@
 
+### Features
+* Handle back press
+* Handle configuration changes
+* ActionBar menu
+* Drawer menu
+* Add shopping lists/products
+* Archive/Unarchive lists
+* Delete products
+
 ### Used Tech
 * [Kotlin](https://kotlinlang.org/)
-* [MVVM](https://developer.android.com/jetpack/docs/guide)
+* [MVVM](https://developer.android.com/jetpack/docs/guide) - a Design pattern
 * [Compose](https://developer.android.com/jetpack/compose) - Modern toolkit for building native UI.
 * [Ambient](https://developer.android.com/reference/kotlin/androidx/compose/Ambient) - Compose passes data through the composition tree.
 * [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - Provide sophisticated tools to handle concurrency.
@@ -14,11 +23,3 @@
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Store UI-related data that isn't destroyed on app rotations. Easily schedule asynchronous tasks.
 * [ktlint](https://ktlint.github.io/) - Enforce Kotlin coding styles.
 
-### Features
-* Handle back press
-* Handle configuration changes
-* ActionBar menu
-* Drawer menu
-* Add shopping lists/products
-* Archive/Unarchive lists
-* Delete products
